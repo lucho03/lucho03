@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm studying to be a software engineer⚡.
-I'm interested in C/C++, Java, SQL, Python, but most of all Kotlin and mobile apps.
-My hobbies outside of programming are football, fitness, movies, and getting fun😄.
+- I'm studying to be a software engineer⚡.
+- I’m currently working on mobile app project🔭.
+- I’m currently learning C/C++, Java, SQL, Python🌱.
+- I'm interested in Kotlin and mobile apps.
+- My hobbies outside of programming are football, fitness, movies, and getting fun😄.
 
 
 <!--
