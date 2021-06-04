@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm studying to be a software engineer⚡.
+I'm interested in C/C++, Java, SQL, Python, but most of all Kotlin and mobile apps.
+My hobbies outside of programming are football, fitness, movies, and getting fun😄.
+
+
 <!--
 **lucho03/lucho03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
