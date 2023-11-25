@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm a web developer and work for UXperience Bulgaria. Wordpress, PHP, Javascript, HTML, CSS are the main technologies that I use, but I have experience with other languages and tools from my high school period. You can check my repositories and take all you need.
-- My hobbies outside of programming are football, swimming, movies, and getting fun😄.
+- I'm a web developer and work for UXperience Bulgaria. WordPress, PHP, Javascript, HTML, and CSS are the main technologies that I use, but I have experience with other languages and tools from my high school period. You can check my repositories and take all you need.
+- My hobbies outside of programming are football, swimming, movies, and having fun😄.
 
 
 <!--
