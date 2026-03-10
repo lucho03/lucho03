@@ -1,20 +1,21 @@
-### Hi there 👋
+## Hi there 👋
+Working as a developer can sometimes be stressful, but it has become a meaningful part of my life that makes it truly interesting. Facing challenges and solving them while developing business and personal solutions helps me grow both as a professional and as a person. Exploring new technologies, concepts, and software architectures allows me to discover new perspectives and motivates me to keep learning and improving.
 
-- I'm a web developer and work for UXperience Bulgaria. WordPress, PHP, Javascript, HTML, and CSS are the main technologies that I use, but I have experience with other languages and tools from my high school period. You can check my repositories and take all you need.
-- My hobbies outside of programming are football, swimming, movies, and having fun😄.
+### Interests
+- Software architecture
+- Security
+- Solving complex engineering problems
 
+### Technical working stack
+- WordPress
+- Laravel
+- Livewire/Flux
+- React
 
-<!--
-**lucho03/lucho03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Still learning
+- Python (ML and AI)
+- C/C++/C#
+- Java
+- SQL/NoSQL
+- PHP (as self-made tasks)
+- Developing networks (Cisco packet tracer, Wireshark)
